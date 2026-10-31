@@ -5391,3 +5391,64 @@ A good answer should demonstrate that you understand:
 That combination of SQL fundamentals, analytical problem-solving and performance understanding is what I'd expect from a strong 5-year engineer.
 
 </details>
+
+## SQL theory questions:
+
+<details>
+<summary></summary>
+1. Fundamental Concepts:
+What is a database?
+What is a database management system (DBMS)?
+What is a relational database?
+What is a non-relational database?
+    
+    Explain the difference between OLTP and OLAP.
+    What are the advantages of using a DBMS?
+    What are the three levels of database design? (Conceptual, Logical, Physical)
+    What is data modeling?
+    What are the different types of data models? (Relational, Object-oriented, Hierarchical)
+    What is an Entity-Relationship (ER) model?
+    
+2. Data Modeling and Schema Design:
+Explain normalization and denormalization.
+What are the different normal forms (1NF, 2NF, 3NF)?
+What is data redundancy and why is it important to avoid it?
+What are primary and foreign keys?
+What are constraints in a database?
+How would you design a database for [specific application/scenario]?
+Explain the process of designing a database schema.
+
+3. SQL and Database Languages:
+What is SQL?
+Explain different SQL statements (SELECT, INSERT, UPDATE, DELETE, CREATE, ALTER).
+What are joins?
+What are subqueries?
+Explain the use of indexes.
+What are the different types of indexes? (Clustered, Non-clustered)
+How would you optimize SQL queries for performance?
+
+4. Data Integrity and Security:
+What is data integrity?
+What is referential integrity?
+What are transactions?
+What are ACID properties? (Atomicity, Consistency, Isolation, Durability)
+Explain concurrency control.
+How would you handle data backups and recovery?
+
+5. Performance and Optimization:
+What are common performance bottlenecks in a database?
+What are different techniques for optimizing database performance? (Indexing, partitioning, caching)
+What is database partitioning?
+How would you troubleshoot a performance issue in a database?
+
+6. Advanced Concepts:
+What is database replication?
+What is sharding?
+What is the CAP theorem?
+What are NoSQL databases and when would you use them?
+What is a materialized view?
+What is a stored procedure?
+What is a trigger?
+What is a view?
+
+</details>
